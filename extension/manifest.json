@@ -15,7 +15,8 @@
       "matches": [
         "https://*.medium.com/*",
         "https://levelup.gitconnected.com/*",
-        "https://code.likeagirl.io/*"
+        "https://code.likeagirl.io/*",
+        "https://aws.plainenglish.io/*"
       ],
       "js": ["content.js"]
     }
