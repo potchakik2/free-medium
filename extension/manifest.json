@@ -14,11 +14,10 @@
     {
       "matches": [
         "https://*.medium.com/*",
-        "https://levelup.gitconnected.com/*"
+        "https://levelup.gitconnected.com/*",
+        "https://code.likeagirl.io/*"
       ],
-      "js": [
-        "content.js"
-      ]
+      "js": ["content.js"]
     }
   ]
 }
